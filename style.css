@@ -481,3 +481,18 @@ footer{
     transform: scale(1.1);
     transition: transform 0.3s ease;
 }
+
+.btn01-produtos:hover{
+  background-color: rgb(255, 249, 228);
+  transition: background-color 0.3s; /* Transição suave */
+}
+
+.btn02-produtos:hover{
+  background-color: rgb(255, 249, 228);
+  transition: background-color 0.3s; /* Transição suave */
+}
+
+.btn03-produtos:hover{
+  background-color: rgb(255, 249, 228);
+  transition: background-color 0.3s; /* Transição suave */
+}
